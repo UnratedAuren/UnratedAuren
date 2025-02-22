@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Auren</h1>
 <h3 align="center">AI Student</h3>
 
-- 🔭 I’m currently working on **College projects**
+- 🔭 I’m currently working on **Own website projects**
 
-- 🌱 I’m currently learning **Python, C**
+- 🌱 I’m currently learning **Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
